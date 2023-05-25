@@ -1,0 +1,98 @@
+{
+    "songs": [
+        {
+            "singerName": "Billie Eilish",
+            "id": "1",
+            "songName": "Lovely Song",
+            "img": "https://justrandomthings.com/wp-content/uploads/2019/01/3045823-90797c37-aed9-4b70-8eb5-3aa14b7f0186.jpg"
+        },
+        {
+            "singerName": "Ellie Goulding",
+            "id": "2",
+            "songName": "Love me like you do",
+            "img": "https://c.saavncdn.com/216/Love-Me-Like-You-Do-Dance-Remix-Version-English-2015-500x500.jpg"
+        },
+        {
+            "singerName": "Jessie J",
+            "popular": true,
+            "id": "3",
+            "songName": "Price Tag",
+            "img": "https://i1.sndcdn.com/artworks-000131940512-cm3f2l-t500x500.jpg"
+        },
+        {
+            "singerName": "Passeger",
+            "popular": true,
+            "id": "4",
+            "songName": "Let her go",
+            "img": "https://i.scdn.co/image/ab67616d0000b27323383bbc9932515fc6ce20bc"
+        },
+        {
+            "singerName": "M2M",
+            "id": "5",
+            "songName": "The day you went away",
+            "img": "https://s.mxmcdn.net/images-storage/albums4/1/5/4/7/9/4/40497451_350_350.jpg"
+        },
+        {
+            "singerName": "AKon",
+            "popular": true,
+            "id": "6",
+            "songName": "Lonely",
+            "img": "https://c.saavncdn.com/367/Lonely-English-2017-500x500.jpg"
+        },
+        {
+            "singerName": "Michael Jackson",
+            "id": "7",
+            "titleText": "Take me to your heart",
+            "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Take_me_to_your_heart_single_cover.jpg"
+        },
+        {
+            "singerName": "Michael Jackson",
+            "popular": true,
+            "id": "8",
+            "songName": "You are not alone",
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/1e/You_Are_Not_Alone.jpg"
+        },
+        {
+            "singerName": "Jessie J",
+            "id": "9",
+            "songName": "Flashlight",
+            "img": "https://upload.wikimedia.org/wikipedia/en/1/11/Jessie_J_-_Flashlight_%28Official_Single_Cover%29.png"
+        },
+        {
+            "singerName": "Lil Nas X",
+            "id": "10",
+            "songName": "Old Town Road",
+            "img": "https://media.gq.com/photos/5cdeef0e1f8a4e271cddab8d/master/pass/Old-Town-Road-Video-GQ-2019-051719.jpg"
+        },
+        {
+            "singerName": "Celine Dion",
+            "id": "11",
+            "songName": "My Heart Will Go On",
+            "img": "https://i.scdn.co/image/ab67616d0000b273065c3565b58f738e30035f10"
+        },
+        {
+            "singerName": "M2M",
+            "id": "12",
+            "songName": "Pretty Boy",
+            "img": "https://i.scdn.co/image/ab67616d0000b27327a5fb1ad7f32708eb38f430"
+        },
+        {
+            "singerName": "Ketty Sky",
+            "id": "13",
+            "songName": "Monster",
+            "img": "https://i.scdn.co/image/ab67616d0000b273bce5ab3ab9e07e6abeb7b247"
+        },
+        {
+            "singerName": "Tones and I",
+            "id": "14",
+            "songName": "Dance Monkey",
+            "img": "https://i.scdn.co/image/ab67616d00001e02c6f7af36ecdc3ed6e0a1f169"
+        },
+        {
+            "singerName": "Vegable",
+            "id": "15",
+            "songName": "Boom Boom Boom",
+            "img": "https://i.scdn.co/image/ab67616d0000b273f3b5d4384de326c53064a72c"
+        }
+    ]
+}
